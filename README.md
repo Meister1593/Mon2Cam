@@ -1,3 +1,4 @@
+! I DID NOT CREATE THIS, I FORKED IT AND REVERTED BACK TO WORKING BASH VERSION !
 # Mon2Cam
 Fix for multi-monitor Discord screensharing
 
