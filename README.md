@@ -20,7 +20,7 @@ Instructions:
 - Follow prompt
 - Switch discord webcam to "Mon2Cam" (Must be running)
 
-Or use the [AUR package](https://aur.archlinux.org/packages/mon2cam-git/)
+Or use the [AUR package](https://aur.archlinux.org/packages/mon2cam-bash-git/)
 
 ```
 ./Mon2Cam.sh - Monitor to Camera
